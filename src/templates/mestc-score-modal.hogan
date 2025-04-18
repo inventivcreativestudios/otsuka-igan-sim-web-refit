@@ -1,0 +1,24 @@
+<div class="modal" data-modal-id="mest-c-score">
+  <div class="modal-inner">
+    <img src="./assets/images/modal-close.svg" class="modal-close update-path" alt="Close X icon"/>
+
+    <h2 class="modal-header">What is the MEST-C score? The Oxford classification describes<br class="desktop-only"> 5 features associated with adverse kidney outcomes.<sup>1,2</sup></h2>
+
+    <div class="graphic-container">
+      <img src="./assets/images/mest-c-score-modal-content.png" class="update-path graphic" alt="Histopathological classifications of IgA nephropathy displayed through microscopic images and descriptions of five key conditions"/>
+    </div>
+
+    <div class="hotspot-container">
+      <div class="hotspot"></div>
+      <div class="hotspot"></div>
+      <div class="hotspot"></div>
+      <div class="hotspot"></div>
+      <div class="hotspot"></div>
+    </div>
+    
+    <div class="footnotes">
+      <p>ESKD, end-stage kidney disease; MEST-C, mesangial hypercellularity (M), endocapillary hypercellularity (E), segmental sclerosis (S), tubular atrophy and interstitial fibrosis (T), crescent (C).</p>
+      <p><span class="bold">References: 1.</span> Pattrapornpisut P, et al. <em>Am J Kidney Dis</em>. 2021;78(3):429-441. <span class="bold">2.</span> Lusco MA, et al. <em>Am J Kidney Dis</em>. 2016;67(6):e33-e34.</p>
+    </div>
+  </div>
+</div>

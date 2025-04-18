@@ -1,0 +1,14 @@
+<div id="interstitial">
+  <div class="inner">
+    <h3>This website is for U.S. Healthcare <span class="nowrap">Professionals Only</span></h3>
+
+    <div class="buttons-flex">
+      <div class="button cta" id="hcp-confirm">
+        <p>Yes, I am a US Healthcare Professional</p>
+      </div>
+      <div class="button cta" id="pat-redirect">
+        <p>No, I am not a US Healthcare Professional</p>
+      </div>
+    </div>
+  </div>
+</div>

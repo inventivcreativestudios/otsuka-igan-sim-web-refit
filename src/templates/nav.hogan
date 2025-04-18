@@ -1,0 +1,70 @@
+<div id="eyebrow">
+  <div class="eyebrow-inner">
+    <p id="nephu-link" data-exit-url="https://nephu.org/iga-nephropathy/">NephU IgAN Home Page</p>
+    <img src="./assets/images/external-icon.svg" class="update-path" alt=""/>
+  </div>
+</div>
+
+<div id="nav">
+  <div class="nav-inner">
+    <img id="logo" src="./assets/images/igan-logo.png" class="update-path nav-el" data-nav-url="index" data-exit-url="home" alt="IgAN logo. Click here to go to the home page"/>
+  
+    <div class="page-links">
+      <div class="page-link nav-el" data-nav-url="index" data-exit-url="home" data-nav-id="home">
+        <p>Home</p>
+      </div>
+      <div class="page-link nav-el" data-nav-url="pathogenesis/index" data-exit-url="pathogenesis/index" data-nav-id="pathogenesis">
+        <p>Pathogenesis</p>
+      </div>
+      <div class="page-link nav-el" data-nav-url="progression/index" data-exit-url="progression/index" data-nav-id="progression">
+        <p>Progression</p>
+      </div>
+    </div>
+  
+    <div class="button cta" id="contact-btn" data-exit-url="https://nephu.org/about/contact-our-team/">
+      <p>Contact Our Medical Team</p>
+    </div>
+  </div>
+</div>
+
+<div id="mobile-nav">
+  <img id="logo" src="./assets/images/igan-logo.png" class="update-path nav-el" data-exit-url="home" data-nav-url="index" alt="IgAN logo"/>
+  <img id="mobile-menu-icon" src="./assets/images/hamburger-icon.svg" class="update-path" alt="Hamburger menu icon"/>
+  <img id="mobile-menu-close" src="./assets/images/modal-close.svg" class="update-path hidden" alt="Menu close icon"/>
+</div>
+
+<div id="mobile-menu">
+  <div class="menu-item nav-el" data-nav-id="home" data-nav-url="index" data-exit-url="home">
+    <p>Home</p>
+    <svg xmlns="http://www.w3.org/2000/svg" class="arrow" width="15.351" height="13.929" viewBox="0 0 15.351 13.929">
+      <path class="arrow-fill" d="M8.194.234A.878.878,0,0,0,7,.234a.769.769,0,0,0,0,1.13l4.468,4.228H.844a.8.8,0,1,0,0,1.6H11.468L7,11.417a.769.769,0,0,0,0,1.13.878.878,0,0,0,1.194,0L14.1,6.955a.769.769,0,0,0,0-1.13Z" transform="translate(0.5 0.574)" stroke-width="1"/>
+    </svg>
+  </div>
+  <div class="menu-item nav-el" data-nav-id="pathogenesis" data-nav-url="pathogenesis/index" data-exit-url="pathogenesis/index">
+    <p>Pathogenesis</p>
+    <svg xmlns="http://www.w3.org/2000/svg" class="arrow" width="15.351" height="13.929" viewBox="0 0 15.351 13.929">
+      <path class="arrow-fill" d="M8.194.234A.878.878,0,0,0,7,.234a.769.769,0,0,0,0,1.13l4.468,4.228H.844a.8.8,0,1,0,0,1.6H11.468L7,11.417a.769.769,0,0,0,0,1.13.878.878,0,0,0,1.194,0L14.1,6.955a.769.769,0,0,0,0-1.13Z" transform="translate(0.5 0.574)" stroke-width="1"/>
+    </svg>
+    
+  </div>
+  <div class="menu-item nav-el" data-nav-id="progression" data-nav-url="progression/index" data-exit-url="progression/index">
+    <p>Progression</p>
+    <svg xmlns="http://www.w3.org/2000/svg" class="arrow" width="15.351" height="13.929" viewBox="0 0 15.351 13.929">
+      <path class="arrow-fill" d="M8.194.234A.878.878,0,0,0,7,.234a.769.769,0,0,0,0,1.13l4.468,4.228H.844a.8.8,0,1,0,0,1.6H11.468L7,11.417a.769.769,0,0,0,0,1.13.878.878,0,0,0,1.194,0L14.1,6.955a.769.769,0,0,0,0-1.13Z" transform="translate(0.5 0.574)" stroke-width="1"/>
+    </svg>
+  </div>
+
+  <div class="menu-lower">
+    <div class="button cta" id="contact-btn" data-exit-url="https://nephu.org/about/contact-our-team/">
+      <p>Contact Our Medical Team</p>
+    </div>
+
+    <div class="flex">
+      <p id="nephu-link" data-exit-url="https://nephu.org/iga-nephropathy/">NephU IgAN Landing Page</p>
+      <img src="./assets/images/external-icon.svg" class="update-path" alt=""/>
+    </div>
+  </div>
+  
+</div>
+
+<div id="overlay"></div> 

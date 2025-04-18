@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <title>IgAN Pathogenesis & Disease Progression Simulation</title>
+    <meta name="description" content="Learn more about the IgAN 4-hit cascade and the role of APRIL. Use interactive hypothetical patient cases to simulate the risk of disease progression">
+    {{> templates/header }}
+    <link href="./styles.bundle.css" rel="stylesheet" type="text/css">
+  </head>
+  <body>
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WZLFQZR3"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    <main class="wrapper" data-page-id="home" data-path-level="0">
+
+      {{> templates/interstitial }}
+      {{> templates/nav }}
+
+      <div class="home-content-container content-container">
+        <div class="header-box">
+          <h1 class="yellow-header">Welcome<br class="mobile-only"/> to the IgAN Simulator</h1>
+          <h2 class="subhead">Here you can get an <span class="nowrap">in-depth</span> look at IgAN pathogenesis and the journeys of patients living with IgAN</h2>
+        </div>
+  
+        <div class="flex">
+          <div class="path-container">
+            <h3>Pathogenesis</h3>
+            <p>See the origins of IgAN at the <br class="mobile-hide"/> molecular level and how that<br class="mobile-hide"/> results in its progression.</p>
+  
+            <div class="cta button nav-el" data-nav-url="pathogenesis/index">
+              <p>Learn More</p>
+              <img class="arrow" src="./assets/images/arrow-white.svg" alt="White arrow pointing right"/>
+            </div>
+          </div>
+          
+          <div class="path-container">
+            <h3>Progression</h3>
+            <p>Journey into the profiles of 3 hypothetical patients to see how their IgAN diagnosis was uncovered, and what's expected in their prognosis.</p>
+  
+            <div class="cta button nav-el" data-nav-url="progression/index">
+              <p>Learn More</p>
+              <img class="arrow" src="./assets/images/arrow-white.svg" alt="White arrow pointing right"/>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {{> templates/footer-el }}
+
+    </main>
+
+    {{> templates/footer-scripts }}
+    <script type="text/javascript" src="./static.bundle.js" charset="utf-8"></script>
+  </body>
+</html>

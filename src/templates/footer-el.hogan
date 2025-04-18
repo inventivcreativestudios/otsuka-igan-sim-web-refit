@@ -1,0 +1,22 @@
+<div id="footer">
+  <div class="footer-inner">
+    <div class="links">
+      <a href="https://www.otsuka-us.com/privacy-policy" class="link" target="_blank">Privacy Policy</a>
+      <a href="https://www.otsuka-us.com/terms-and-conditions" class="link" target="_blank">Terms of Use</a>
+      <p class="link nav-el" data-nav-url="site-map">Site Map</p>
+    </div>
+  
+    <p>The information provided on the IgANsim website is intended for your educational benefit only. It is not intended as, nor is it a substitute for, medical care or advice or professional diagnosis.</p>
+  
+    <p>Health care professionals should use their independent judgment when reviewing educational resources from IgANsim. Users seeking medical advice should consult with a health care professional.</p>
+  
+    <div class="signoff">
+      <p>&copy;2024 Otsuka Pharmaceutical Development & Commercialization, Inc. All Rights Reserved.<br/>
+      September 2024 US.UNB.X.24.00051</p>
+      
+      <a href="https://www.otsuka-us.com/" target="_blank">
+        <img src="./assets/images/otsuka-logo-ko-white.svg" class="update-path" alt="Otsuka logo. Click here to go to Otsuka website"/>
+      </a>
+    </div>
+  </div>
+</div>

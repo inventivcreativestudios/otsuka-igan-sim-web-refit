@@ -1,0 +1,36 @@
+{
+  "name": "otsuka-igan-sim-web-refit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "engines": {
+    "node": ">=18.12.1"
+  },
+  "scripts": {},
+  "author": "GSW DEV",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "latest",
+    "del": "^6.1.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "latest",
+    "gulp-changed": "latest",
+    "gulp-clean-css": "latest",
+    "gulp-concat": "latest",
+    "gulp-hogan": "latest",
+    "gulp-order": "latest",
+    "gulp-plumber": "latest",
+    "gulp-sass": "latest",
+    "gulp-sequence": "latest",
+    "helmet": "latest",
+    "hogan.js": "latest",
+    "merge-stream": "latest",
+    "path": "latest",
+    "run-sequence": "latest",
+    "sass": "latest"
+  },
+  "overrides": {
+    "chokidar": "3.5.3",
+    "glob-parent": "6.0.2"
+  }
+}
